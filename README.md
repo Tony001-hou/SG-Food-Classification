@@ -21,4 +21,6 @@ python main.py --model convnext_large
 ```
 
 
+![CNN Result](http://url/to/img.png)
+
 
