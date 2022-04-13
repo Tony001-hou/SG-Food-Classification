@@ -21,6 +21,6 @@ python main.py --model convnext_large
 ```
 
 
-![CNN Result](http://url/to/img.png)
+![CNN Result](https://github.com/Tony001-hou/SG-Food-Classification/blob/main/result.jpg)
 
 
