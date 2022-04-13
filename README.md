@@ -13,3 +13,12 @@ conda activate sgfood
 ```
 pip install -r requirements.txt
 ```
+
+### Train and test
+
+```
+python main.py --model convnext_large
+```
+
+
+
