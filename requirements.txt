@@ -1,3 +1,5 @@
 matplotlib
 torchsummary
 resnest
+ptflops
+d2l
